@@ -34,7 +34,7 @@
     "babel-plugin-inline-svg": "^1.2.0",
     "core-js": "^3.8.2",
     "del": "^6.0.0",
-    "git-rev-sync": "^3.0.1",
+    "git-rev-sync": "^3.0.2",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-better-rollup": "^4.0.1",
