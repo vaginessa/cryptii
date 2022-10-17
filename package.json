@@ -46,7 +46,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-standard": "^14.0.0",
-    "gulp-terser": "^2.0.0",
+    "gulp-terser": "^2.1.0",
     "normalize-scss": "^7.0.1",
     "rollup": "^2.35.1",
     "rollup-plugin-babel": "^4.4.0",
